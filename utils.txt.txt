@@ -1,1 +1,2 @@
 this is utility two of my software
+and i will master git today only
